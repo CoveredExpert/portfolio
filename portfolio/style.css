@@ -1,0 +1,58 @@
+h1{
+color: turquoise;
+margin:5px ;
+padding-left: 20px;
+}
+
+.header {
+    display: flex; /* or inline-flex */
+background-color:black;
+border:solid;
+border-color:turquoise
+}
+.menu{
+color:black;
+display:flex;
+justify-content: center;
+}
+p{
+
+    color: turquoise;
+    display:flex;
+    justify-content: center;
+    background-color:black;
+    border:solid;
+border-color:turquoise
+}
+
+.game{
+
+    color:limegreen;
+    display:flex;
+    justify-content: center;
+    background-color:black;
+    border: cadetblue;
+}
+.footer{
+    display: flex;
+justify-content: center;
+
+}
+
+*{
+    border:solid;
+    border-color: black;
+}
+a:link{
+    color: red;
+}
+
+a:visited{
+color: lime;
+}
+
+
+
+
+
+
